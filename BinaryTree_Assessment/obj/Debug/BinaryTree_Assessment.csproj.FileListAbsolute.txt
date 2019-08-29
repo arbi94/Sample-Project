@@ -1,0 +1,21 @@
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe.config
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.pdb
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csprojAssemblyReference.cache
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csproj.CoreCompileInputs.cache
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.exe
+F:\Create cloud computing service(#C) -LIQIAO\Session 3\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.pdb
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe.config
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.pdb
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csprojAssemblyReference.cache
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csproj.CoreCompileInputs.cache
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.exe
+F:\School\Semester 2\ICTPRG604 Create cloud computing services\Assessment\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.pdb
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe.config
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.exe
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\bin\Debug\BinaryTree_Assessment.pdb
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csprojAssemblyReference.cache
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.csproj.CoreCompileInputs.cache
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.exe
+D:\IT course\Semester 2\Cloud services\Assessments\BinaryTree_Assessment\BinaryTree_Assessment\obj\Debug\BinaryTree_Assessment.pdb
